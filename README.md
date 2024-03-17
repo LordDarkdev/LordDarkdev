@@ -2,7 +2,6 @@
 * Hey there! I'm Lord, a passionate developer exploring the realms of coding and technology. With a blend of creativity and logic, I strive to craft innovative solutions to real-world problems. Let's embark on a journey of continuous learning and growth together!*
 # 🌟 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/755106757038178396)
-![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5iedm2386l18mkogoc07malvu?si=5c8679e9d37448e7)
 
 
