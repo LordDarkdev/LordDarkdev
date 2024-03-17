@@ -9,7 +9,7 @@
 # 📚 About Me
 I'm deeply immersed in the world of coding, constantly honing my skills and exploring new technologies. Here are some insights into what I've been up to:
 <div style="margin-bottom:100px">
-<img width=55% src="https://github-readme-stats.vercel.app/api?username=LordDarkdev&show_icons=true&theme=radical" />
+<img width=55% src="https://github-readme-stats.vercel.app/api?username=LordDarkdev&show_icons=true&theme=radical&rank_icon=github" />
 <img width=46% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=LordDarkdev&show_icons=true&theme=radical&layout=compact" />
  </div>
  
