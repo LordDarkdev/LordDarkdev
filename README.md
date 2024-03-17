@@ -1,6 +1,7 @@
 # Hello! My name is Lord ! 😉
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/755106757038178396)
-[![Git hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordDarkdev/LordDarkdev)
+![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5iedm2386l18mkogoc07malvu?si=5c8679e9d37448e7)
 
 
@@ -9,7 +10,7 @@
 <img width=55% src="https://github-readme-stats.vercel.app/api?username=LordDarkdev&show_icons=true&theme=radical" />
 <img width=46% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=LordDarkdev&show_icons=true&theme=radical&layout=compact" />
  </div>
-
+ 
  ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
